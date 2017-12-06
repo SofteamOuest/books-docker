@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 docker rm books-postgres -f
 
